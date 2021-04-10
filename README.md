@@ -1,4 +1,4 @@
-\>Greetings Stanger  
+\>Greetings stranger  
 \>Hope my code helps
 
 \>你好陌生人  
